@@ -1013,6 +1013,7 @@ int main() {
             default:
                 printf("\033[1;31mInvalid choice. Try again.\033[0m\n");
         }
+// Word Guessing code is not working properly
     }
     return 0;
 }
