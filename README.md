@@ -1,29 +1,19 @@
-<h1 align="center">Hi 👋, We're Team_Limitless</h1>
-<h3 align="center">Beginner Computer Science Students</h3>
+<h1 align="center">Hi, I am Maharab Hossain Jesan</h1>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=team-limitless&label=Profile%20views&color=0e75b6&style=flat" alt="team-limitless" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=team-limitless" alt="team-limitless" /></a> </p>
 
-- 🔭 We're currently working on **PixelPlay4**
+-  I am done working on **PixelPlay4**
 
-- 🌱 We're currently learning **C programming & fundamentals of computer science**
+-  I am done learning **C programming & fundamentals of computer science**
 
-- 👯 We're looking to collaborate on **PixelArtGenerator**
+- All of my projects are available at (https://github.com/Maharab-Jesan)
 
-- 🤝 We're looking for help with **PixelPlay4**
+- 💬 Ask me about **PixelPlay4**
 
-- 👨‍💻 All of our projects are available at [https://github.com/TEAM-LIMITLESS](https://github.com/TEAM-LIMITLESS)
-
-- 📝 We regularly write articles on [N/A](N/A)
-
-- 💬 Ask us about **PixelPlay4**
-
-- 📫 How to reach us **team.limitless251@gmail.com**
-
-- 📄 Know about our experiences [N/A](N/A)
-
-- ⚡ Fun fact **Programming is fun :))**
+- 📫 How to reach us **maharabjesan001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
